@@ -1,3 +1,8 @@
+/*
+OctaNet Service Pvt Ltd
+Sakshi Borse
+Task 1
+*/
 import time 
 
 print("please insert your card")
